@@ -3,7 +3,7 @@ USE mp6;
 CREATE TABLE heroes (
   id INT UNSIGNED AUTO_INCREMENT,
   hero VARCHAR(30),
-  power VARCHER(30),  
+  power VARCHAR(30),  
   name VARCHAR(30),
   kp INT,
   color VARCHAR(20),
